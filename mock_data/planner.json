@@ -1,0 +1,7 @@
+{
+  "steps": [
+    { "action": "check_weather", "location": "Mumbai" },
+    { "action": "set_reminder", "time": "10:00", "message": "Meeting" },
+    { "action": "query_calendar" }
+  ]
+}

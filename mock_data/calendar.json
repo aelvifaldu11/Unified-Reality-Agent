@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "title": "Team Meeting",
+      "date": "2025-02-12",
+      "time": "10:00",
+      "location": "Google Meet"
+    },
+    {
+      "title": "Dentist Appointment",
+      "date": "2025-02-15",
+      "time": "16:00",
+      "location": "Apollo Clinic"
+    }
+  ]
+}
